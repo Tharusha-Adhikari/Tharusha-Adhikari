@@ -75,17 +75,6 @@ Repositories that are actually published. More links get added as work is finish
 | [**Lag-Crusher**](https://github.com/Tharusha-Adhikari/Lag-Crusher) | Tauri Android app that stabilises mobile internet by pinging provider-optimised endpoints, with live latency and packet-loss stats | `Tauri` `Rust` |
 | [**HunterX**](https://github.com/Tharusha-Adhikari/HunterX) | Open-source AI penetration-testing tool for finding and fixing vulnerabilities on systems you own | `Python` `AI` |
 | [**Zyphrax**](https://github.com/Tharusha-Adhikari/Zyphrax) | Local-first supply-chain risk scanner using static checks, hashing, VirusTotal and isolated dynamic analysis | `Python` `Security` |
-| [**NPD**](https://github.com/Tharusha-Adhikari/NPD) | Network programming design learning resources, practicals and reference material | `Networking` `Python` |
-
-<!-- REPLACE: The names, descriptions and links below are aspirational placeholders, NOT published repositories. Replace them with real repos once built, or delete this table. See the "Placeholders to replace" section at the end. -->
-### Planned projects (not published yet)
-
-| Project | Intended description | Stack |
-|---|---|---|
-| Cicada | Recon automation framework that chains subdomain enumeration, port scanning and screenshotting into one report | `Python` `Bash` |
-| Ironbone | Linux hardening auditor that checks a host against common benchmark controls and outputs a scored report | `Bash` `Python` |
-| GuWatch | Lightweight log parser that flags brute-force and anomalous login patterns | `Python` `Regex` |
-| HollowSea | Reproducible homelab provisioning with Ansible for pentest and sysadmin practice | `Ansible` `Docker` |
 
 ---
 
@@ -143,7 +132,6 @@ Repositories that are actually published. More links get added as work is finish
 
 Nothing below is a claimed achievement, CVE, employer, certification or star count. Update or delete before treating this profile as final.
 
-- **Planned projects table** — Cicada, Ironbone, GuWatch, HollowSea (names/descriptions only, no repos exist yet).
 - **Research Log** — three planned topics; replace with real write-ups and links when published.
 - **Contact links** — LinkedIn URL line is commented out; add only links you are happy to make public.
 - **Profile description** — update the GitHub repo description if the degree wording needs changing.
