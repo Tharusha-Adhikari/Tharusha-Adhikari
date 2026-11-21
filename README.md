@@ -16,9 +16,9 @@ I focus on practical network engineering and the scripting that supports it: aut
 
 ## Featured / Pinned Project Categories
 
-Replace each placeholder with a link to a real repository.
+Add more links as additional repositories are published.
 
-- **[Network Monitoring & Automation]** — scripts and tools for status reporting, reachability checks, and automated health checks.
+- **Network Monitoring & Automation** — [Lag-Crusher](https://github.com/Tharusha-Adhikari/Lag-Crusher): continuous reachability checks with live latency and packet-loss stats.
 - **[Systems & Data Utilities]** — practical scripts and modules focused on validation, reliability, and clear documentation.
 - **[Web & Backend Services]** — small services and applications with defined interfaces and straightforward setup.
 - **[Learning Notes & Labs]** — lab exercises and notes from the Network Engineering diploma.
