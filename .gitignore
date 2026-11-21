@@ -1,0 +1,19 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Environment / secrets
+.env
+.env.*
+*.key
+*.pem
+credentials.json
+
+# Logs / build output
+*.log
+dist/
+build/
+node_modules/
