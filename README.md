@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="nightfall53 - security research, automation, Linux" width="100%"/>
+<!-- ?v=2 busts GitHub's cached copy of the old banner -->
+<img src="./assets/banner.svg?v=2" alt="nightfall53 - security research, automation, Linux" width="100%"/>
 
 <a href="https://github.com/nightfall53">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=8b7bff&center=true&vCenter=true&width=760&lines=Learning+to+find+vulnerabilities+before+attackers+do;Studying+Linux+internals+and+hardening+one+config+at+a+time;Building+small+automation+tools%2C+one+script+at+a+time;Patient.+Curious.+Still+learning." alt="Typing animation"/>
