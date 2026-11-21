@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Tharusha Adhikari - Security Researcher, Automation, SysAdmin">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07070c"/>
+      <stop offset="0.6" stop-color="#0d0a16"/>
+      <stop offset="1" stop-color="#1a0709"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f2f2f5"/>
+      <stop offset="1" stop-color="#ff4d5e"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ff2a3d" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#ff2a3d" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+    </pattern>
+    <clipPath id="typeclip">
+      <rect x="60" y="150" width="0" height="34">
+        <animate attributeName="width" values="0;640;640;0" keyTimes="0;0.35;0.9;1" dur="9s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <style>
+      .mono{font-family:'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace}
+      .cjk{font-family:'Noto Serif CJK SC','Noto Serif SC','SimSun','Songti SC',serif}
+      .rain{font-family:'DejaVu Sans Mono',monospace;font-size:14px;fill:#ff2a3d;opacity:.35}
+      .flick{animation:flick 6s infinite}
+      @keyframes flick{0%,92%,100%{opacity:1}93%{opacity:.4}94%{opacity:1}96%{opacity:.6}97%{opacity:1}}
+    </style>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+
+  <!-- falling glyph rain -->
+  <g class="rain">
+    <text x="760" y="-10">蛊<animateTransform attributeName="transform" type="translate" values="0,0;0,350" dur="7s" repeatCount="indefinite"/></text>
+    <text x="830" y="-10">0x41<animateTransform attributeName="transform" type="translate" values="0,0;0,350" dur="9s" begin="-3s" repeatCount="indefinite"/></text>
+    <text x="905" y="-10">命<animateTransform attributeName="transform" type="translate" values="0,0;0,350" dur="6s" begin="-2s" repeatCount="indefinite"/></text>
+    <text x="1120" y="-10">rce<animateTransform attributeName="transform" type="translate" values="0,0;0,350" dur="8s" begin="-5s" repeatCount="indefinite"/></text>
+    <text x="1050" y="-10">永<animateTransform attributeName="transform" type="translate" values="0,0;0,350" dur="10s" begin="-1s" repeatCount="indefinite"/></text>
+    <text x="1170" y="-10">sudo<animateTransform attributeName="transform" type="translate" values="0,0;0,350" dur="7.5s" begin="-4s" repeatCount="indefinite"/></text>
+  </g>
+
+  <!-- Spring Autumn Cicada sigil -->
+  <g transform="translate(960 160)">
+    <circle r="130" fill="url(#glow)">
+      <animate attributeName="r" values="115;140;115" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="92" fill="none" stroke="#ff2a3d" stroke-opacity="0.5" stroke-width="1.2" stroke-dasharray="3 9">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="40s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="68" fill="none" stroke="#ffffff" stroke-opacity="0.25" stroke-width="1" stroke-dasharray="14 6">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="28s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="44" fill="#0b0b12" stroke="#ff2a3d" stroke-width="1.5"/>
+    <!-- cicada glyph -->
+    <text class="cjk flick" y="14" text-anchor="middle" font-size="46" fill="#ff4d5e">蝉</text>
+    <text class="mono" y="118" text-anchor="middle" font-size="11" letter-spacing="4" fill="#ffffff" fill-opacity="0.45">SPRING · AUTUMN</text>
+  </g>
+
+  <!-- corner brackets -->
+  <g stroke="#ff2a3d" stroke-width="2" fill="none" stroke-opacity="0.8">
+    <path d="M24 56V24H56"/><path d="M1176 56V24H1144"/>
+    <path d="M24 264V296H56"/><path d="M1176 264V296H1144"/>
+  </g>
+
+  <!-- header line -->
+  <text class="mono" x="60" y="72" font-size="14" fill="#ff4d5e" letter-spacing="3">
+    [ root@gu-master ~ ]#
+    <animate attributeName="opacity" values="1;.55;1" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- name -->
+  <text class="mono" x="60" y="128" font-size="54" font-weight="700" fill="url(#title)" letter-spacing="1">THARUSHA ADHIKARI</text>
+  <rect x="60" y="138" width="0" height="3" fill="#ff2a3d">
+    <animate attributeName="width" values="0;520;520" keyTimes="0;0.25;1" dur="2.5s" fill="freeze"/>
+  </rect>
+
+  <!-- typed role line -->
+  <g clip-path="url(#typeclip)">
+    <text class="mono" x="60" y="176" font-size="22" fill="#e8e8ee">Vulnerability Research · Automation · SysAdmin</text>
+  </g>
+
+  <!-- cycling creed -->
+  <g class="mono" font-size="16" fill="#ffffff" fill-opacity="0.7">
+    <text x="60" y="226" opacity="0">Patience is the sharpest exploit.
+      <animate attributeName="opacity" values="0;1;1;0;0;0;0;0;0" keyTimes="0;0.05;0.28;0.33;0.4;0.6;0.8;0.95;1" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <text x="60" y="226" opacity="0">Every system hides a weakness. Find it before they do.
+      <animate attributeName="opacity" values="0;0;0;1;1;0;0;0;0" keyTimes="0;0.3;0.33;0.38;0.6;0.66;0.8;0.95;1" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <text x="60" y="226" opacity="0">Calculate everything. Trust nothing. Automate the rest.
+      <animate attributeName="opacity" values="0;0;0;0;0;1;1;0;0" keyTimes="0;0.3;0.5;0.6;0.63;0.68;0.9;0.96;1" dur="12s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- status bar -->
+  <g class="mono" font-size="12" fill="#ffffff" fill-opacity="0.5">
+    <text x="60" y="284">[linux] [offsec] [bash] [python] [hardening] [recon]</text>
+    <circle cx="1100" cy="280" r="4" fill="#ff2a3d" fill-opacity="1">
+      <animate attributeName="opacity" values="1;.2;1" dur="1.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="1112" y="284">ONLINE</text>
+  </g>
+
+  <!-- scanline -->
+  <rect x="0" y="0" width="1200" height="2" fill="#ff2a3d" fill-opacity="0.25">
+    <animate attributeName="y" values="0;320" dur="5s" repeatCount="indefinite"/>
+  </rect></svg>
