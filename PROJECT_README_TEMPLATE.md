@@ -1,9 +1,17 @@
 # [Project Name]
 
-[One-sentence summary: what this project does and why it exists.]
+[One-sentence summary: what this project does and why you built it.]
 
 > [!NOTE]
-> Keep the style dark, clean and consistent with the profile README: short sections, monospace for commands, and no invented claims.
+> Keep the style dark, clean and consistent with the profile README. Palette: `#0d0a16` backgrounds, `#8b7bff` violet and `#5ce1ff` ice-blue accents. Frame everything as learning work — honest beats impressive.
+
+---
+
+## 📚 What I learned
+
+- [Concept or skill you picked up while building this]
+- [Something that didn't work at first and how you fixed it]
+- [Tool or workflow you became more comfortable with]
 
 ---
 
@@ -18,23 +26,9 @@
 
 ## 🧩 Overview
 
-[Describe the problem, the scope, and what the project delivers. Keep it short and factual.]
-
-- **Status:** [Active / Complete / Experimental]
+- **Status:** [WIP / Learning project / Complete]
 - **Stack:** [Languages, tools, frameworks]
 - **Use case:** [Where or how it is used]
-
----
-
-## 🏗️ Architecture / How It Works
-
-[Explain the main components and how data flows between them. A short bullet list is fine.]
-
-- **[Component A]** — [Responsibility]
-- **[Component B]** — [Responsibility]
-- **[Component C]** — [Responsibility]
-
-[Note any key design decisions or assumptions.]
 
 ---
 
@@ -48,7 +42,7 @@
 ### Installation
 
 ```bash
-git clone https://github.com/Tharusha-Adhikari/[repository-name].git
+git clone https://github.com/nightfall53/[repository-name].git
 cd [repository-name]
 [install command]
 ```
@@ -63,7 +57,7 @@ cd [repository-name]
 
 ```
 $ [example command]
-[expected output — paste real output, not a mock-up]
+[paste real output, not a mock-up]
 ```
 
 ---
@@ -81,8 +75,6 @@ $ [example command]
 - [x] [What is done and working]
 - [ ] [Known limitations or unfinished areas]
 - [ ] [Planned next steps, if any]
-
-[Any other notes for reviewers: test instructions, configuration details, or references.]
 
 ---
 

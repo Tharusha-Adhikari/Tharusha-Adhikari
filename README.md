@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Tharusha Adhikari - Security Researcher, Automation, SysAdmin" width="100%"/>
+<img src="./assets/banner.svg" alt="nightfall53 - security research, automation, Linux" width="100%"/>
 
-<a href="https://github.com/Tharusha-Adhikari">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=FF4D5E&center=true&vCenter=true&width=760&lines=Hunting+vulnerabilities+before+attackers+do;Automating+everything+that+repeats;Hardening+Linux+one+config+at+a+time;Patient.+Methodical.+Relentless." alt="Typing animation"/>
+<a href="https://github.com/nightfall53">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=8b7bff&center=true&vCenter=true&width=760&lines=Learning+to+find+vulnerabilities+before+attackers+do;Studying+Linux+internals+and+hardening+one+config+at+a+time;Building+small+automation+tools%2C+one+script+at+a+time;Patient.+Curious.+Still+learning." alt="Typing animation"/>
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tharusha-Adhikari&label=Profile+Views&color=ff2a3d&style=flat-square)
-![Followers](https://img.shields.io/github/followers/Tharusha-Adhikari?style=flat-square&color=ff2a3d&labelColor=0d0a16)
-![Linux](https://img.shields.io/badge/Linux-0d0a16?style=flat-square&logo=linux&logoColor=ff4d5e)
-![Security](https://img.shields.io/badge/Security_Research-0d0a16?style=flat-square&logo=hackthebox&logoColor=ff4d5e)
+![Profile Views](https://komarev.com/ghpvc/?username=nightfall53&label=Profile+Views&color=8b7bff&style=flat-square)
+![Followers](https://img.shields.io/github/followers/nightfall53?style=flat-square&color=8b7bff&labelColor=0d0a16)
+![Status](https://img.shields.io/badge/Status-Student_%26_researcher_in_training-0d0a16?style=flat-square&logo=linux&logoColor=5ce1ff)
+![Focus](https://img.shields.io/badge/Focus-Linux_%7C_Vuln_Research_%7C_Automation-0d0a16?style=flat-square&logo=bash&logoColor=5ce1ff)
 
 </div>
 
@@ -19,71 +19,64 @@
 
 ## `$ whoami`
 
-I'm **Tharusha**, a second-year **BSc (Hons) in Ethical Hacking and Network Security** student at **NIBM**, focused on offensive security, vulnerability research, and Linux systems administration. I build tooling that removes repetitive work, and I study how systems break so I can help make them harder to break.
+Hi, I'm **Tharusha** — `nightfall53` online. I'm a second-year **BSc (Hons) in Ethical Hacking and Network Security** student at **NIBM**, and a **security researcher in training**. I'm learning how systems work, how they break, and how to build small tools that make that process repeatable.
 
 ```text
-role      : Security researcher / sysadmin in training
+name      : Tharusha Adhikari
+handle    : nightfall53
+role      : Student & security researcher in training
 base      : Sri Lanka
 education : BSc (Hons) in Ethical Hacking and Network Security - NIBM
-year      : Second year (ongoing)
-focus     : vuln research, automation, Linux hardening, recon tooling
-mindset   : calculated, patient, and thorough
+year      : Second year
+focus     : vulnerability research, Linux, automation
 status    : learning in public
 ```
 
-> *"Cultivation is about calculation. So is security."*
-> The approach I try to bring to every target and every system I defend: study it fully, plan before acting, never rely on luck.
+---
+
+## Philosophy
+
+> *"Study the system, plan the move, verify the result."*
+
+I'm early in the journey, so I try to stay patient and curious. I write down what I learn, keep notes on what failed, and treat every lab as a chance to understand a little more than I did yesterday.
 
 ---
 
-## 🩸 The Path
-
-I like the cold pragmatism of Fang Yuan from *Reverend Insanity*: use every resource, plan several moves ahead, and never confuse sentiment with strategy. In security that translates to a few habits.
-
-| Principle | In practice |
-|---|---|
-| **Know the terrain** | Thorough recon and enumeration before touching anything |
-| **Resources are finite** | Automate the boring parts, spend attention on the hard ones |
-| **Prepare for regret** | Backups, rollbacks and reproducible configs for every change |
-| **Patience over speed** | Slow, careful analysis beats noisy guessing |
-
----
-
-## ⚔️ Arsenal
+## 🧰 Skills
 
 <div align="center">
 
-![Linux](https://skillicons.dev/icons?i=linux,bash,py,go,c,docker,git,github,nginx,ansible,vscode,regex&theme=dark)
+![Linux](https://skillicons.dev/icons?i=linux,bash,py,rust,c,docker,git,github,nginx,ansible,vscode,regex&theme=dark)
 
 </div>
 
-| Domain | Areas |
+| Group | What's in it |
 |---|---|
-| 🔍 **Vulnerability Research** | Web app testing, binary basics, fuzzing, CVE analysis, patch diffing |
-| 🤖 **Automation** | Bash and Python tooling, recon pipelines, report generation, cron/systemd workflows |
-| 🐧 **System Administration** | Linux hardening, SSH and firewall config, log analysis, service management, backups |
-| 🛡️ **Defensive Security** | Threat modelling, detection ideas, CIS-style auditing, incident write-ups |
+| 🌱 **Learning** | Exploit development fundamentals, fuzzing and crash triage, Linux kernel internals, Go for security tooling |
+| 🔬 **Practising** | Web application testing, basic binary analysis, patch diffing, log analysis, writing lab notes |
+| ✅ **Comfortable with** | Linux administration, Bash and Python scripting, Git workflows, Docker basics, SSH/firewall configuration |
 
 ---
 
 ## 🗂️ Featured Projects
 
-Repositories that are actually published. More links get added as work is finished.
+Small projects I've built while learning. More get added as they're finished.
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Lag-Crusher**](https://github.com/Tharusha-Adhikari/Lag-Crusher) | Tauri Android app that stabilises mobile internet by pinging provider-optimised endpoints, with live latency and packet-loss stats | `Tauri` `Rust` |
-| [**HunterX**](https://github.com/Tharusha-Adhikari/HunterX) | Open-source AI penetration-testing tool for finding and fixing vulnerabilities on systems you own | `Python` `AI` |
-| [**Zyphrax**](https://github.com/Tharusha-Adhikari/Zyphrax) | Local-first supply-chain risk scanner using static checks, hashing, VirusTotal and isolated dynamic analysis | `Python` `Security` |
+| [**Lag-Crusher**](https://github.com/nightfall53/Lag-Crusher) | Tauri Android app that stabilises mobile internet by pinging provider-optimised endpoints, with live latency and packet-loss stats | `Tauri` `Rust` `TypeScript` |
+| [**HunterX**](https://github.com/nightfall53/HunterX) | Open-source AI-assisted penetration-testing tool for finding and fixing vulnerabilities on systems you own | `Python` |
+| [**Zyphrax**](https://github.com/nightfall53/Zyphrax) | Local-first supply-chain risk scanner using static checks, hashing, VirusTotal and isolated dynamic analysis | `Rust` |
 
 ---
 
-## 📝 Research Log
+## 📓 Learning & Research Log
 
-<!-- REPLACE: These are topics I intend to write about, not published write-ups. Replace each with a real link once it exists, or remove the entries. Nothing here is a claimed CVE, advisory or publication. -->
-- 📌 Planned write-up: *Privilege escalation paths in misconfigured Linux services*
-- 📌 Planned notes: *Building a repeatable recon pipeline with Bash and Python*
-- 📌 Planned lab: *Hardening a fresh Debian server from zero*
+<!-- REPLACE: these are topics I'm working through, not published write-ups. Replace with real lab notes and links once they exist. Nothing here is a claimed CVE, advisory or publication. -->
+
+- 📌 Lab note (planned): *Privilege escalation paths in misconfigured Linux services*
+- 📌 Notes (in progress): *Building a repeatable recon pipeline with Bash and Python*
+- 📌 Lab (planned): *Hardening a fresh Debian server from zero*
 
 ---
 
@@ -91,21 +84,30 @@ Repositories that are actually published. More links get added as work is finish
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tharusha-Adhikari&show_icons=true&hide_border=true&bg_color=0d0a16&title_color=ff4d5e&icon_color=ff2a3d&text_color=d8d8e0&rank_icon=github" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharusha-Adhikari&layout=compact&hide_border=true&bg_color=0d0a16&title_color=ff4d5e&text_color=d8d8e0" alt="Top languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nightfall53&show_icons=true&hide_border=true&bg_color=0d0a16&title_color=8b7bff&icon_color=5ce1ff&text_color=d8d8e0&rank_icon=github" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightfall53&layout=compact&hide_border=true&bg_color=0d0a16&title_color=8b7bff&text_color=d8d8e0" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com/?user=Tharusha-Adhikari&hide_border=true&background=0d0a16&ring=ff2a3d&fire=ff4d5e&currStreakLabel=ff4d5e&sideLabels=d8d8e0&currStreakNum=ffffff&sideNums=ffffff&dates=8a8a99" alt="Contribution streak"/>
+<img src="https://streak-stats.demolab.com/?user=nightfall53&hide_border=true&background=0d0a16&ring=8b7bff&fire=5ce1ff&currStreakLabel=8b7bff&sideLabels=d8d8e0&currStreakNum=ffffff&sideNums=ffffff&dates=8a8a99" alt="Contribution streak"/>
 
 </div>
 
 ---
 
-## 🎯 Currently
+## 🎯 Currently studying
 
-- 🔭 Building recon and hardening automation
-- 📚 Studying exploit development and Linux internals
-- 🧪 Practising in lab environments (HackTheBox / TryHackMe style)
-- 🌱 Learning Go for faster security tooling
+- Linux internals and how privilege escalation happens in practice
+- Web and binary vulnerability classes, one CTF/lab at a time
+- Fuzzing basics and reading crash reports without panicking
+- Writing cleaner, better-documented automation
+
+---
+
+## 🚀 Next goals
+
+- Publish my first real lab write-up
+- Finish and document a small hardening or fuzzing helper
+- Work through more CTF-style challenges and record what I learn
+- Contribute a small fix to an open-source security project
 
 ---
 
@@ -113,9 +115,9 @@ Repositories that are actually published. More links get added as work is finish
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Tharusha--Adhikari-0d0a16?style=for-the-badge&logo=github&logoColor=ff4d5e)](https://github.com/Tharusha-Adhikari)
-<!-- REPLACE: add your own links below, and remove the commented lines you do not want. Never commit a personal email address. -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0a16?style=for-the-badge&logo=linkedin&logoColor=ff4d5e)](YOUR_LINKEDIN_URL) -->
+[![GitHub](https://img.shields.io/badge/GitHub-nightfall53-0d0a16?style=for-the-badge&logo=github&logoColor=5ce1ff)](https://github.com/nightfall53)
+<!-- REPLACE: add only links you're happy to make public. No personal email. -->
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0a16?style=for-the-badge&logo=linkedin&logoColor=5ce1ff)](YOUR_LINKEDIN_URL) -->
 
 </div>
 
@@ -124,16 +126,16 @@ Repositories that are actually published. More links get added as work is finish
 > ⚠️ **Ethics:** All security work shown here is done on systems I own or have explicit permission to test, in labs and CTFs. Tools are shared for education and defence, not for attacking systems without authorisation.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0a16,100:ff2a3d&height=100&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0a16,100:8b7bff&height=100&section=footer" width="100%" alt="footer"/>
 </div>
 
 <details>
 <summary>📋 Placeholders to replace</summary>
 
-Nothing below is a claimed achievement, CVE, employer, certification or star count. Update or delete before treating this profile as final.
+Nothing below is a claimed achievement, CVE, employer, internship, certification, award or star count.
 
-- **Research Log** — three planned topics; replace with real write-ups and links when published.
-- **Contact links** — LinkedIn URL line is commented out; add only links you are happy to make public.
-- **Profile description** — update the GitHub repo description if the degree wording needs changing.
+- **Learning & Research Log** — three planned/in-progress topics; replace with real lab notes and links when published.
+- **LinkedIn link** — commented out; add a URL only if you want it public.
+- **Profile display name** — currently "Tharusha Adhikari"; change it to `nightfall53` in GitHub profile settings if you want the display name to match the handle.
 
 </details>
